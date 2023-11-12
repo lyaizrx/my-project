@@ -23,7 +23,7 @@ public class Employee {
    private double salary;
 
    /**
-    * 测试
+    * 测试代码
     */
    public static void show(){
       System.out.println("name: ");
