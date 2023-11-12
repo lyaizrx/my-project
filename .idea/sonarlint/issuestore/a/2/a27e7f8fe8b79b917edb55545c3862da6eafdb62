@@ -1,0 +1,9 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8„äœ—¹1
+]
+java:S1854";Remove this useless assignment to local variable "person1".(¿ù”÷ûÿÿÿÿ8»Ã›—¹1
+X	java:S125"<This block of commented-out lines of code should be removed.(„þŒ£8¼Ã›—¹1
+N
+java:S1481",Remove this unused "person1" local variable.(¿ù”÷ûÿÿÿÿ8¾Ã›—¹1
+^
+java:S2133"ARemove this object instantiation and use "Person1.class" instead.(¸¼—ñ8ÀÃ›—¹1

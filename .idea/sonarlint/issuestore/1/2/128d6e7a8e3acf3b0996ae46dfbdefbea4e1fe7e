@@ -1,0 +1,20 @@
+
+o
+java:S1192:"MDefine a constant instead of duplicating this literal "from table(
+" 3 times.(ÈŸ­ùÿÿÿÿ8ùìòúÒ0
+w
+java:S11929"[Define a constant instead of duplicating this literal "  sum(price) as price_amt
+" 3 times.(Ö†¼\8úìòúÒ0
+l
+java:S11928"ODefine a constant instead of duplicating this literal "  window_end,
+" 3 times.(èƒÍ8úìòúÒ0
+e
+java:S11926"HDefine a constant instead of duplicating this literal "select
+" 4 times.(ôÀ©8ûìòúÒ0
+ƒ
+java:S1192="aDefine a constant instead of duplicating this literal "group by window_start,window_end" 3 times.(êå˜¡øÿÿÿÿ8üìòúÒ0
+s
+java:S11927"QDefine a constant instead of duplicating this literal "  window_start,
+" 3 times.(»¦ä¿ıÿÿÿÿ8ıìòúÒ0
+X	java:S1252"<This block of commented-out lines of code should be removed.(¢ÙÆ£8¦íòúÒ0
+x	java:S116’"VRename this field "supplier_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¢šœÿÿÿÿÿ8«íòúÒ0

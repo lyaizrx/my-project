@@ -1,0 +1,7 @@
+
+º
+java:S1192Q"—Define a constant instead of duplicating this literal "(  select * from table(tumble(table t_left,descriptor(rt),interval '10' second))  ) a
+" 4 times.(³¾øÿÿÿÿ8³†úúÒ0
+i
+java:S1192P"GDefine a constant instead of duplicating this literal "from 
+" 4 times.(ıøŞûşÿÿÿÿ8³†úúÒ0

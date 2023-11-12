@@ -1,0 +1,12 @@
+
+p
+java:S1104f"SMake orderId a static final constant or non-public and provide accessors if needed.(åáßÁ8ŸÂ—ûÒ0
+v
+java:S1104g"TMake currency a static final constant or non-public and provide accessors if needed.(Æ«§Ìýÿÿÿÿ8ŸÂ—ûÒ0
+n
+java:S1104h"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 8 Â—ûÒ0
+w
+java:S1104i"UMake orderTime a static final constant or non-public and provide accessors if needed.(Š¿Ó·ûÿÿÿÿ8 Â—ûÒ0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ð¿Æùÿÿÿÿ8ºÁ–ûÒ0
+X	java:S1256"<This block of commented-out lines of code should be removed.(ÀÅÝ¤8·Â—ûÒ0
+X	java:S125J"<This block of commented-out lines of code should be removed.(£Õ†û8¹Â—ûÒ0

@@ -1,0 +1,18 @@
+
+F
+java:S2140;")Use "java.util.Random.nextInt()" instead.(òı†8¡†À¸´1
+Y
+java:S1854b"7Remove this useless assignment to local variable "shi".(Æÿ…¸ùÿÿÿÿ8¤†À¸´1
+S
+java:S1854a"7Remove this useless assignment to local variable "bai".(üî«K8¤†À¸´1
+W
+java:S1854U"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8¤†À¸´1
+]	java:S125Q"<This block of commented-out lines of code should be removed.(ìÈÙøıÿÿÿÿ8¥†À¸´1
+H
+java:S1481U"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8¦†À¸´1
+]	java:S125V"<This block of commented-out lines of code should be removed.(Øšáµıÿÿÿÿ8¦†À¸´1
+X	java:S125["<This block of commented-out lines of code should be removed.(×İô8¦†À¸´1
+D
+java:S1481a"(Remove this unused "bai" local variable.(üî«K8¦†À¸´1
+J
+java:S1481b"(Remove this unused "shi" local variable.(Æÿ…¸ùÿÿÿÿ8§†À¸´1

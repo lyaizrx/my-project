@@ -1,0 +1,9 @@
+
+p
+java:S1104M"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8¸ÕÖúÒ0
+t
+java:S1104N"RMake gender a static final constant or non-public and provide accessors if needed.(×¾“æùÿÿÿÿ8¸ÕÖúÒ0
+p
+java:S1104V"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8¹ÕÖúÒ0
+m
+java:S1104W"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¹ÕÖúÒ0

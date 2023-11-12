@@ -1,0 +1,10 @@
+
+Y
+java:S1854I">Remove this useless assignment to local variable "kafkaTable".(±ì¿·üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Úêàœüÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ÁÌë³
+J
+java:S1481I"/Remove this unused "kafkaTable" local variable.(±ì¿·üÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ÎÂ«
+=
+java:S1068"'Remove this unused "LOG" private field.(ÅÕäý

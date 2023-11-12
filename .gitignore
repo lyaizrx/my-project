@@ -1,0 +1,3 @@
+# Project exclude paths
+/flink16/target/
+/my-java/target/

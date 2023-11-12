@@ -1,0 +1,17 @@
+
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ñ÷×³ÿÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÉÑ¦—üÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "fileInputStream".(ñ÷×³ÿÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(èŠ¦¦ýÿÿÿÿ
+O
+java:S1481"4Remove this unused "fileInputStream" local variable.(ñ÷×³ÿÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(ë¢Ä
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
